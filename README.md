@@ -16,6 +16,8 @@ git clone https://github.com/crazyhatfish/pycanvas.git
 cd pycanvas
 python canvas.py
 ```
+### Windows (wip)
+note to self: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pycairo
 
 ## todo
 * [ ] Clean up code
